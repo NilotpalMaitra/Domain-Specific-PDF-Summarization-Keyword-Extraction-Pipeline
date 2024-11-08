@@ -1,0 +1,6 @@
+PyMuPDF
+pymongo
+concurrent.futures
+nltk
+transformers
+tqdm
