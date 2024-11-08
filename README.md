@@ -1,0 +1,1 @@
+Design and implement a dynamic pipeline that processes multiple PDF documents from a single domain in a desktop folder, generates domain-specific summaries and keywords, and stores them in a MongoDB database. The system must efficiently handle documents of varying lengths, from short to long, and update the database with summary and keyword data after each document is processed.

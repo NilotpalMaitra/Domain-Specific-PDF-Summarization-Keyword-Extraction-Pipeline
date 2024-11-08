@@ -1,4 +1,4 @@
-# main.py
+
 import os
 from parsing import ingest_pdfs
 from summarization import generate_summary

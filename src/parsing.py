@@ -1,4 +1,4 @@
-# parsing.py
+
 import fitz  # PyMuPDF
 import os
 
